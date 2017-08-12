@@ -1,4 +1,4 @@
-# Contributing
+# Deseja contribuir? SIGA AS REGRAS!
 
 1. Faça um Fork no projeto.
 
