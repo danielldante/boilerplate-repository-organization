@@ -17,4 +17,4 @@ Deseja contribuir? [Visualize as recomendações a serem seguidas](https://githu
 
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) © [Daniel Dantte](http://github.com/danielldante)
+[MIT License](https://github.com/danielldante) © [Daniel Dantte](http://github.com/danielldante)
