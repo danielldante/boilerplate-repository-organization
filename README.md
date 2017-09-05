@@ -17,4 +17,4 @@ Deseja contribuir? [Visualize as recomendações a serem seguidas](https://githu
 
 
 ## License
-[MIT License](https://github.com/danielldante) © [Daniel Dantte](http://github.com/danielldante)
+[MIT License](https://github.com/danielldante/lincense.md) © [Daniel Dantte](http://github.com/danielldante)
